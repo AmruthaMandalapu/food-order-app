@@ -40,5 +40,7 @@ Users can browse menus, place orders, and track deliveries with a responsive and
 
 ## Screenshots
 <img width="1920" height="1080" alt="Screenshot 2025-08-10 215004" src="https://github.com/user-attachments/assets/a956453c-c7d5-488b-b693-5e8780ada76d" />
-<img width="1920" height="1080" alt="Screenshot 2025-08-10 215136" src="https://github.com/user-attachments/assets/d27ffd6c-c8e1-4755-9172-0764199dfd5b" />
 <img width="1920" height="1080" alt="Screenshot 2025-08-10 215039" src="https://github.com/user-attachments/assets/39c146d8-2dab-4ee0-bafe-96ea2830257a" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-10 215136" src="https://github.com/user-attachments/assets/d27ffd6c-c8e1-4755-9172-0764199dfd5b" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-10 215124" src="https://github.com/user-attachments/assets/f735c0db-3f48-4440-ab75-1fbe81003040" />
+
