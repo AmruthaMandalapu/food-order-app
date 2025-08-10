@@ -18,7 +18,7 @@ Users can browse menus, place orders, and track deliveries with a responsive and
 - **Database:** MongoDB
 - **Tools:** Visual Studio Code, Git, GitHub
 
-  ## run
+## Run
 - food-order-app/
 │-- backend/
 │-- frontend/
